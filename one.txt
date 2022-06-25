@@ -1,0 +1,5 @@
+Distributed Version Control System: Git has a remote repository 
+which is stored in a server and a local repository which is stored 
+in the computer of each developer. This means that the code is not 
+just stored in a central server, 
+but the full copy of the code is present in all the developers' computers.
